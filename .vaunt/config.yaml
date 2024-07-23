@@ -1,0 +1,11 @@
+version: 0.0.1
+achievements:
+  - achievement:
+      name: Community Hero
+      icon: https://raw.githubusercontent.com/akshatvirmani/vaunt/main/community_hero.png
+      description: Thank you for Joining the Google IO Extended event at Dehradun on 27th July.
+      triggers:
+        - trigger:
+            actor: author
+            action: star
+            condition: starred = true
