@@ -1,3 +1,8 @@
+### Vaunt Socials
+**Website:** https://vaunt.dev/
+**Install Vaunt from Github Marketplace:** https://github.com/marketplace/vaunt-dev
+**Discord Server:** https://discord.com/invite/mn29Xkvry2
+
 ### Available Awards
 
 | Name | Icon | Description |
