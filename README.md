@@ -12,6 +12,8 @@
 | Shooting Star | <img src="https://raw.githubusercontent.com/vauntdev/example/main/.vaunt/shooting_star.png" width="150" /> | Thank you for Joining the Google I/O Extended event at Dehradun on 27th July. |
 
 ### Embed Achievement in your README (or on your website)
+#### You need to install Vaunt first from the github marketplace to use the features below.
+
 
 Add the following line and replace {{GITHUB_USERNAME}} with your username:
 
