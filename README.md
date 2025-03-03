@@ -9,7 +9,9 @@
 
 | Name | Icon | Description |
 | ---- | ---- | ----------- |
-| Shooting Star | <img src="https://raw.githubusercontent.com/vauntdev/example/main/.vaunt/shooting_star.png" width="150" /> | Thank you for Joining the Google I/O Extended event at Dehradun on 27th July. |
+| Hackmamba Star | <img src="https://raw.githubusercontent.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/main/.vaunt/hackmamba_star.png" width="150" /> | Awarded for starring our repository, make a wish! |
+
+| Pull Request Hero | <img src="https://raw.githubusercontent.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/main/.vaunt/hackmamba_contribute.png" width="150" /> | Thank you for contributing to our technical writing repository! |
 
 ### Embed Achievement in your README (or on your website)
 #### You need to install Vaunt first from the github marketplace to use the features below.
